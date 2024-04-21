@@ -1,4 +1,4 @@
-my_string = input("Ваша жизненный девиз: ")
+my_string = input("Ваш жизненный девиз: ")
 print(my_string.upper())
 print(my_string.lower())
 print(my_string.replace(" ", "#"))
